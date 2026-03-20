@@ -32,7 +32,6 @@ Welcome! This repository contains the
 
 **🚀 Join the Membership to get access:**
 * Instant access to the Full Android Studio Project source code.
-* The exact detailed prompt to copy & paste into Gemini Agent.
 * Priority replies to your comments.
 * Exclusive membership badges.
 
