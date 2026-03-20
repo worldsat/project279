@@ -3,7 +3,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![XML](https://img.shields.io/badge/XML_Layouts-FF9900?style=for-the-badge&logo=android&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-1A73E8?style=for-the-badge&logo=googlebard&logoColor=white)
+
 
 Welcome! This repository contains the 
 **free assets (images, custom icons, banners, UI elements)
