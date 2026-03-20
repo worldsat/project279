@@ -5,14 +5,15 @@
 ![XML](https://img.shields.io/badge/XML_Layouts-FF9900?style=for-the-badge&logo=android&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-1A73E8?style=for-the-badge&logo=googlebard&logoColor=white)
 
-Welcome! This repository contains the **free assets (images, custom icons, banners, UI elements)** used in my YouTube tutorial on building a stunning Digital Wallet App using Kotlin, XML, and the Gemini AI Agent in Android Studio.
+Welcome! This repository contains the 
+**free assets (images, custom icons, banners, UI elements)
 
 ---
 
 ## 📺 Watch the Tutorial
-Follow along to build this UI step-by-step and learn how to generate code with AI!
 
-[![Watch the video](https://img.youtube.com/vi/2dO2cJQ4UsM/maxresdefault.jpg)](https://youtu.be/2dO2cJQ4UsM)
+
+[![Watch the video](https://img.youtube.com/vi/wmBAgQ9NzQw/maxresdefault.jpg)](https://youtu.be/wmBAgQ9NzQw)
 
 *(Click the image above to watch the video)*
 
@@ -25,9 +26,9 @@ Follow along to build this UI step-by-step and learn how to generate code with A
 
 ---
 
-## 💎 Get the Full Source Code & AI Prompt
+## 💎 Get the Source Code
 
-The **Complete Source Code** and the **Exact Gemini Prompt** used for this Digital Wallet App are available exclusively for channel members. 
+
 
 **🚀 Join the Membership to get access:**
 * Instant access to the Full Android Studio Project source code.
