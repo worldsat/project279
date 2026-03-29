@@ -13,7 +13,7 @@ Welcome! This repository contains the
 ## 📺 Watch the Tutorial
 
 
-[![Watch the video](https://img.youtube.com/vi/wmBAgQ9NzQw/maxresdefault.jpg)](https://youtu.be/wmBAgQ9NzQw)
+[![Watch the video](https://img.youtube.com/vi/2dO2cJQ4UsM/maxresdefault.jpg)](https://youtu.be/wmBAgQ9NzQw)
 
 *(Click the image above to watch the video)*
 
